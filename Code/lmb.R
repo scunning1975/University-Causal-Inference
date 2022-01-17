@@ -1,3 +1,7 @@
+# install.packages("tidyverse")
+# install.packages("haven")
+# install.packages("estimatr")
+
 library(tidyverse)
 library(haven)
 library(estimatr)
